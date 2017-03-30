@@ -1,3 +1,6 @@
+*{
+  font-family: 'Halant', serif;
+}
 #header {
   background-image: url("../assets/backgrounds/landing.jpg");
   height: 640px;
@@ -12,4 +15,41 @@
     margin: auto;
     padding-top: 130px;
     padding-bottom: 30px;
+}
+#row2{
+  height: 210px;
+}
+#happyhour{
+  font-family: 'Halant', serif;
+  background-color: #FFFFFF;
+  color: grey;
+  text-align: center;
+  height: 105px;
+}
+#happyparty{
+  padding: 0px;
+  margin: 0px;
+}
+#partytime{
+  font-family: 'Halant', serif;
+  background-color: #FF7F50;
+  color: #FFFFFF;
+  text-align: center;
+  height: 105px;
+  padding-right: 0px; !important
+}
+#breakfast{
+  background-image: url("../assets/foodtop/breakfast.jpg");
+  text-align: center;
+  padding-left: 0px;!important
+
+}
+#lunch{
+  background-image: url("../assets/foodtop/lunch.jpg");
+  text-align: center;
+  text-indent: center;
+}
+#dinner{
+  background-image: url("../assets/foodtop/dinner.jpg");
+  text-align: center;
 }
