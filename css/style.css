@@ -1,0 +1,15 @@
+#header {
+  background-image: url("../assets/backgrounds/landing.jpg");
+  height: 640px;
+  color: #ffffff;
+  font-family: 'Halant', serif;
+  font-weight: 'light';
+  text-align: center;
+
+}
+#logobig{
+  display: block;
+    margin: auto;
+    padding-top: 130px;
+    padding-bottom: 30px;
+}
