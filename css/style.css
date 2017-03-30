@@ -41,15 +41,20 @@
 #breakfast{
   background-image: url("../assets/foodtop/breakfast.jpg");
   text-align: center;
-  padding-left: 0px;!important
+  color: #FFFFFF;
 
 }
 #lunch{
   background-image: url("../assets/foodtop/lunch.jpg");
   text-align: center;
   text-indent: center;
+  color: #FFFFFF;
 }
 #dinner{
   background-image: url("../assets/foodtop/dinner.jpg");
   text-align: center;
+  color: #FFFFFF;
+}
+#happyhour:hover,#partytime, #dinner:hover,#breakfast:hover,#lunch:hover{
+	opacity: 0.7;
 }
