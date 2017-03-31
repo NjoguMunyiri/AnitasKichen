@@ -8,7 +8,9 @@
   font-family: 'Halant', serif;
   font-weight: 'light';
   text-align: center;
-
+}
+#btnfa{
+  float: left;!impoertant
 }
 #logobig{
   display: block;
@@ -57,4 +59,18 @@
 }
 #happyhour:hover,#partytime, #dinner:hover,#breakfast:hover,#lunch:hover{
 	opacity: 0.7;
+}
+#fastfoodimage{
+  padding: 50px;
+  border-color: #C0C0C0;
+  border-width: thick;
+  float: left;
+}
+#fastfoodtext{
+  padding: 50px;
+  float: right;
+}
+#viewgallarybtn{
+  color: #FF4500;
+  border-color: #FF4500;
 }
