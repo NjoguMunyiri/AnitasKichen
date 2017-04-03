@@ -11,6 +11,7 @@
 }
 #btnfa{
   float: left;!impoertant
+  background-color: Transparent;
 }
 #logobig{
   display: block;
@@ -27,6 +28,7 @@
   color: grey;
   text-align: center;
   height: 105px;
+
 }
 #happyparty{
   padding: 0px;
@@ -34,7 +36,7 @@
 }
 #partytime{
   font-family: 'Halant', serif;
-  background-color: #FF7F50;
+  background-color: #FF4500;
   color: #FFFFFF;
   text-align: center;
   height: 105px;
@@ -60,17 +62,37 @@
 #happyhour:hover,#partytime, #dinner:hover,#breakfast:hover,#lunch:hover{
 	opacity: 0.7;
 }
+
 #fastfoodimage{
   padding: 50px;
-  border-color: #C0C0C0;
-  border-width: thick;
-  float: left;
+
 }
 #fastfoodtext{
   padding: 50px;
   float: right;
+  text-align: left;
 }
 #viewgallarybtn{
   color: #FF4500;
   border-color: #FF4500;
+}
+#textdrinks{
+  text-align: right;
+  padding: 50px;
+}
+#imgdrinks{
+  padding: 50px;
+  padding-left: 0px;
+  border-color: #C0C0C0;
+  border-width: thick;
+}
+#row4{
+  background-image: url("../assets/backgrounds/foodsBg.jpg");
+  height: 599px;
+}
+#food{
+  background-color: #FFFFFF;
+  margin: 10%;
+  margin-left: 10%;
+
 }
