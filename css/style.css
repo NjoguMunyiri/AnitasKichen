@@ -112,7 +112,7 @@
   margin-left: 10%;
   background-color: #f2f2f2;
   padding:30px;
-  box-shadow: 10px 10px 5px grey;
+  box-shadow: 5px 5px 5px 5px grey;
 }
 #aboutcustomers h2{
   color: #FF4500;
@@ -120,7 +120,15 @@
 }
 #customer{
   text-align: center;
+  margin: 0px;
+  padding: 0px;
 }
 #about{
-
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+#row6{
+  background-image: url("../assets/backgrounds/subscribe.jpg");
+  height: 301px;
 }
