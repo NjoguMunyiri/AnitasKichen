@@ -132,3 +132,12 @@
   background-image: url("../assets/backgrounds/subscribe.jpg");
   height: 301px;
 }
+#subscribe{
+  text-align: center;
+  color: #FFFFFF;
+  padding: 100px;
+  margin-left: 18%;
+}
+#subscribe button{
+  color: #FF4500;
+}
