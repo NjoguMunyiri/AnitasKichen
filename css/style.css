@@ -11,7 +11,8 @@
 }
 #btnfa{
   float: left;!impoertant
-  background-color: Transparent;
+  color: Transparent
+  background: Transparent;
 }
 #logobig{
   display: block;
@@ -65,7 +66,7 @@
 
 #fastfoodimage{
   padding: 50px;
-
+  border-color: #f2f2f2;
 }
 #fastfoodtext{
   padding: 50px;
@@ -83,7 +84,7 @@
 #imgdrinks{
   padding: 50px;
   padding-left: 0px;
-  border-color: #C0C0C0;
+  border-color: #f2f2f2;
   border-width: thick;
 }
 #row4{
@@ -98,4 +99,17 @@
 }
 #food img{
   padding: 1.5%;
+}
+#aboutcustomers.p {
+  color: #FF4500;
+
+}
+#aboutcustomers{
+  margin: 8%;
+  margin-left: 10%;
+  background-color: #f2f2f2;
+  padding: 30px;
+}
+#customer{
+  text-align: center;
 }
