@@ -1,6 +1,9 @@
 *{
   font-family: 'Halant', serif;
 }
+* i.fa{
+  color: #FF4500;
+}
 #header {
   background-image: url("../assets/backgrounds/landing.jpg");
   height: 640px;
@@ -65,8 +68,7 @@
 }
 
 #fastfoodimage{
-  padding: 50px;
-  border-color: #f2f2f2;
+  text-align: right;
 }
 #fastfoodtext{
   padding: 50px;
@@ -108,8 +110,16 @@
   margin: 8%;
   margin-left: 10%;
   background-color: #f2f2f2;
-  padding: 30px;
+  padding:30px;
+  box-shadow: 10px 10px 5px grey;
+}
+#aboutcustomers h2{
+  color: #FF4500;
+
 }
 #customer{
   text-align: center;
+}
+#about{
+
 }
