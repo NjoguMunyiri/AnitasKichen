@@ -108,24 +108,24 @@
 
 }
 #aboutcustomers{
-  margin: 8%;
-  margin-left: 10%;
+  margin: 6%;
+  margin-left: 15%;
   background-color: #f2f2f2;
   padding:30px;
   box-shadow: 5px 5px 5px 5px grey;
+  width: 60%;
 }
 #aboutcustomers h2{
   color: #FF4500;
 
+
 }
 #customer{
   text-align: center;
-  margin: 0px;
-  padding: 0px;
+  width: 635px
+
 }
 #about{
-  margin: 0px;
-  padding: 0px;
   text-align: center;
 }
 #row6{
