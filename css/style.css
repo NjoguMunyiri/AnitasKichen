@@ -137,8 +137,27 @@
   text-align: center;
   color: #FFFFFF;
   padding: 100px;
-  margin-left: 18%;
+  margin-left: 15%;
+}
+#subscribe input{
+  width: 80%;
+  background: transparent;
+  opacity: .4;
+  color: #FFFFFF;
 }
 #subscribe button{
-  color: #FF4500;
+    color: #FFFFFF;
+    background-color: #FF4500;
+    BORDER: 0PX;
+    WIDTH: 100%;
+    height: 100%;
+    padding: 6px;
+}
+
+#subscribe .p-1 {
+  width: 50%;
+  margin-left: 8%;
+}
+#subscribe .p-2{
+  width: 30%;
 }
