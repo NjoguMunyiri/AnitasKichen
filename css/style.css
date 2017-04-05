@@ -26,6 +26,12 @@
 #row2{
   height: 210px;
 }
+#row2 h2{
+  padding: 80px;
+}
+#row2 #happyparty h2{
+  padding: 30px;
+}
 #happyhour{
   font-family: 'Halant', serif;
   background-color: #FFFFFF;
@@ -144,6 +150,8 @@
   background: transparent;
   opacity: .4;
   color: #FFFFFF;
+  border: none;
+  z-index: 100;
 }
 #subscribe button{
     color: #FFFFFF;
