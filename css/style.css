@@ -132,9 +132,13 @@
 
 }
 #about{
-  text-align: center;
+  text-align: justify;
   margin-left: 10%;
 }
+#about h2{
+  text-align: center;
+}
+
 #row6{
   background-image: url("../assets/backgrounds/subscribe.jpg");
   height: 301px;
@@ -170,4 +174,18 @@
 }
 #subscribe .p-2{
   width: 30%;
+}
+#row7{
+  background-color: #FF4500;
+  color: #FFFFFF;
+}
+#cred{
+  padding: 30px;
+  margin-left: 35%;
+  align-items: center;
+}
+
+#cred img{
+  height: 100%;
+  vertical-align: inherit;
 }
