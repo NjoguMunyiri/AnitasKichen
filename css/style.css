@@ -105,13 +105,16 @@
   background-color: #FFFFFF;
   margin: 10%;
   margin-left: 10%;
-
+  width: 100%;
+}
+#food i{
+  font-size: 1.5em;
 }
 #food img{
-  padding: 1.5%;
+  padding: ;
 }
 #aboutcustomers.p {
-  color: ##ff6633;
+  color: #ff6633;
 
 }
 #aboutcustomers{
