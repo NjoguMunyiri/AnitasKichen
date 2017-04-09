@@ -4,8 +4,16 @@
 * i.fa{
   color: #FF4500;
 }
+.parallax{
+
+}
 #header {
   background-image: url("../assets/backgrounds/landing.jpg");
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:fixed!important;
+  overflow:hidden;
   height: 640px;
   color: #ffffff;
   font-family: 'Halant', serif;
@@ -13,7 +21,7 @@
   text-align: center;
 }
 #btnfa{
-  float: left;!impoertant
+  float: left;
   color: Transparent
   background: Transparent;
 }
@@ -99,7 +107,12 @@
 }
 #row4{
   background-image: url("../assets/backgrounds/foodsBg.jpg");
-  height: 599px;
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:fixed!important;
+  overflow:hidden;
+  height: 636px;
 }
 #food{
   background-color: #FFFFFF;
@@ -144,6 +157,11 @@
 
 #row6{
   background-image: url("../assets/backgrounds/subscribe.jpg");
+  background-position:center center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:fixed!important;
+  overflow:hidden;
   height: 301px;
 }
 #subscribe{
